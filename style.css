@@ -20,7 +20,11 @@ header a {
 
 nav {
     margin: 20px;
-    padding: 30px;
+    padding: 20px;
+}
+
+nav a {
+    margin: 50px;
 }
 
 .button {
